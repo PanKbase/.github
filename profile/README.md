@@ -9,8 +9,7 @@ Read more at https://www.pankbase.org/projects.html.
 
 ## The goal of this GitHub organization
 
-* Platform repositories - ...
-* Pipeline repositories - ...
-* ...
-
+* Platform repositories - https://github.com/topics/pankbase-platform
+* Pipeline repositories - [...](https://github.com/topics/pankbase-pipelines
+  
 (Last edited on April 17, 2025)
