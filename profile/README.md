@@ -7,9 +7,9 @@ PanKbase plans to offer integrated and computation-ready genomic, epigenomic, tr
 
 Read more at https://www.pankbase.org/projects.html.
 
-## The goal of this GitHub organization
+## Our repositories
 
-* Platform repositories - https://github.com/topics/pankbase-platform
-* Pipeline repositories - [...](https://github.com/topics/pankbase-pipelines
+* View our [Platform repositories](https://github.com/topics/pankbase-platform)
+* View our [Pipeline repositories](https://github.com/topics/pankbase-pipelines)
   
 (Last edited on April 17, 2025)
