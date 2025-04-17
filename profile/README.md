@@ -12,6 +12,6 @@ Read more at https://www.pankbase.org/projects.html.
 ## Our repositories
 
 * View our [Platform repositories](https://github.com/topics/pankbase-platform)
-* View our [Pipeline repositories](https://github.com/topics/pankbase-pipelines)
+* View our [Pipeline repositories](https://github.com/topics/pankbase-pipeline)
   
 (Last edited on April 17, 2025)
