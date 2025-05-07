@@ -9,6 +9,10 @@ PanKbase plans to offer integrated and computation-ready genomic, epigenomic, tr
 
 Read more at https://www.pankbase.org/projects.html.
 
+## Discussion forum
+
+We have a discussion forum set up at https://github.com/PanKbase/external-feedback/discussions. 
+
 ## Our repositories
 
 * View our [Platform repositories](https://github.com/topics/pankbase-platform)
