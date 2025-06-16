@@ -17,26 +17,7 @@ We have a discussion forum set up at https://github.com/PanKbase/external-feedba
 
 * View our [Platform repositories](https://github.com/topics/pankbase-platform)
 * View our [Pipeline repositories](https://github.com/topics/pankbase-pipeline)
+* View our [PankGraph repositories](https://github.com/topics/pankbase-pankgraph)
 
-### Platform repositories
 
-| Repository | Description | Lab Group | Lead Contact |
-| --- | --- | --- | --- | 
-| Repo 1 |Lorem ipsum | ... | ... |
-| Repo 1 | Lorem ipsum | ... | ... |
-
-### Pipeline repositories
-
-| Repository | Description | Lab Group | Lead Contact |
-| --- | --- | --- | --- | 
-| [snRNAseq-NextFlow](https://github.com/PanKbase/snRNAseq-NextFlow) | NextFlow pipeline for 10X snRNA-seq data | Steve Parker (Umich) | Ha Vu |
-| [snRNAseq-NextFlow](https://github.com/PanKbase/HPAP-scATAC-seq) | TBD | Gaulton Lab | Parul Kudtarkar |
-
-### PanKgraph repositories
-
-| Repository | Description | Lab Group | Lead Contact |
-| --- | --- | --- | --- | 
-| Repo 1 |Lorem ipsum | Jie Liu (Umich) | ... |
-| Repo 1 | Lorem ipsum | Jie Liu (Umich) | ... |
-
-(Last edited on April 17, 2025)
+(Last edited on June 16, 2025)
