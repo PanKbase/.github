@@ -25,6 +25,7 @@ We have a discussion forum set up at https://github.com/PanKbase/external-feedba
 |------------|-------------|
 | [PanKbase UI](https://github.com/PanKbase/dig-dug-portal) | Vue‑based portal powering the main PanKbase website (pankbase.org), forked from Broad Institute’s dig‑dug‑portal. |
 | [PanKbase donor summary](https://github.com/PanKbase/PanKbase-donor-summary) | R Shiny app summarizing donor metadata and clinical info. |
+| [PanKbase PCA Explorer](https://github.com/PanKbase/PanKbase-RNA-expression-PCA-Explorer) | This is the Shiny application that runs the PCA Explorer Tool for PanKbase. |
 | [Data Library UI](https://github.com/PanKbase/igvf-ui) | Next.js‑based Data Library UI used by PanKbase, forked from IGVF‑DACC’s interface. |
 | [Data Library Metadata Database](https://github.com/PanKbase/igvfd) | Metadata database for the PanKbase project, forked from IGVF‑DACC/igvfd. |
 | [pankbase client openapi spec](https://github.com/PanKbase/pankbase-client-openapi-spec) | OpenAPI specification defining the REST API for the PanKbase data Library.|
