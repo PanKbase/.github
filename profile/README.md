@@ -1,4 +1,4 @@
-# Welcome to PankBase
+# Welcome to PanKbase
 
 ![image](https://github.com/user-attachments/assets/b2456a40-1eb3-4974-8a6d-211ef7bec8a4)
 
