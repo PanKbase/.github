@@ -48,4 +48,4 @@ We have a discussion forum set up at https://github.com/PanKbase/external-feedba
 |------------|-------------|
 | [PanKgraph finemap coloc](https://github.com/PanKbase/PanKgraph-finemap-coloc) | Jupyter notebooks & code for fine-mapping and colocalization analyses in PanKbase & PanKgraph. |
 
-(Last edited on June 16, 2025)
+(Last edited on June 17, 2025)
