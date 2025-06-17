@@ -27,10 +27,10 @@ We have a discussion forum set up at https://github.com/PanKbase/external-feedba
 | [PanKbase donor summary](https://github.com/PanKbase/PanKbase-donor-summary) | R Shiny app summarizing donor metadata and clinical info. |
 | [Data Library UI](https://github.com/PanKbase/igvf-ui) | Next.js‑based Data Library UI used by PanKbase, forked from IGVF‑DACC’s interface. |
 | [Data Library Metadata Database](https://github.com/PanKbase/igvfd) | Metadata database for the PanKbase project, forked from IGVF‑DACC/igvfd. |
-| [pankbase client openapi spec](https://github.com/PanKbase/pankbase-client-openapi-spec) | OpenAPI specification defining the REST API for the PanKbase data portal.|
-| [pankbase python client](https://github.com/PanKbase/pankbase-python-client) | Auto‑generated Python client library for the PanKbase API. |
+| [pankbase client openapi spec](https://github.com/PanKbase/pankbase-client-openapi-spec) | OpenAPI specification defining the REST API for the PanKbase data Library.|
+| [pankbase python client](https://github.com/PanKbase/pankbase-python-client) | Auto‑generated Python client library for the PanKbase Data Library API. |
 | [cdk prod](https://github.com/PanKbase/cdk-igvf-prod) | CDK infrastructure repo for deploying PanKbase Data Library services in the prod AWS account. |
-| [data_analysis](https://github.com/PanKbase/data_analysis) | Jupyter notebooks and scripts for analyzing datasets within PanKbase Data Library via.  API interactions. |
+| [data_analysis](https://github.com/PanKbase/data_analysis) | Jupyter notebooks and scripts for analyzing datasets within PanKbase Data Library via. API interactions.|
 
 
 ## Pipeline Repositories
