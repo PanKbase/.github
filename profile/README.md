@@ -31,7 +31,7 @@ We have a discussion forum set up at https://github.com/PanKbase/external-feedba
 | [pankbase client openapi spec](https://github.com/PanKbase/pankbase-client-openapi-spec) | OpenAPI specification defining the REST API for the PanKbase data Library.|
 | [pankbase python client](https://github.com/PanKbase/pankbase-python-client) | Auto‑generated Python client library for the PanKbase Data Library API. |
 | [cdk prod](https://github.com/PanKbase/cdk-igvf-prod) | CDK infrastructure repo for deploying PanKbase Data Library services in the prod AWS account. |
-| [data_analysis](https://github.com/PanKbase/data_analysis) | Jupyter notebooks and scripts for analyzing datasets within PanKbase Data Library via. API interactions.|
+| [PanKbase Data Library Exploration Tool](https://github.com/PanKbase/PanKbase-data-library-exploration) | Jupyter notebooks and scripts for analyzing datasets within PanKbase Data Library via. API interactions.|
 
 
 ## Pipeline Repositories
